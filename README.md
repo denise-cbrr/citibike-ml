@@ -12,7 +12,7 @@ citibike-ml/
 ```
 
 ## Additional Installations
-If running in Visual Studio Code (as we did), you should verify that you have the extension Google Colab VS Code Extension. If not, install it and go to this repo after cloning it and you can follow the directions under Quick Start from the link from above (attached to Google Colab). 
+If running in Visual Studio Code (as we did), you should verify that you have the extension Google Colab VS Code Extension. If not, install it and go to this (https://marketplace.visualstudio.com/items?itemName=Google.colab) after cloning it and you can follow the directions under Quick Start from the link from above (attached to Google Colab). 
 
 ## Data
 The cleaned dataset `citibike_data.csv` is loaded directly from GitHub inside the notebook:
